@@ -1,2 +1,2 @@
 # Algorithms
-Data Structures and Algorithms test programs
+Data Structures and Algorithms test programs.
