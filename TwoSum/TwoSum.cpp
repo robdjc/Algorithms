@@ -31,7 +31,7 @@ vector<int> check_for_target2(vector<int> &nums, const int target)
 
     std::sort(nums.begin(), nums.end());
 
-    auto i = 0;
+    std::size_t i = 0;
     auto j = nums.size() -1;
 
     while (i<j) {
@@ -47,6 +47,8 @@ vector<int> check_for_target2(vector<int> &nums, const int target)
             ++i;
 	}
     }
+
+    return return_val;
 }
 
 
