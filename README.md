@@ -1,6 +1,9 @@
 # Algorithms
 Data Structures and Algorithms test programs.
 
+Problem: https://www.hackerrank.com/challenges/2d-array/problem <br />
+Solution: https://github.com/robdjc/Algorithms/tree/master/2DArray
+
 Problem: https://www.hackerrank.com/challenges/counting-valleys/problem <br />
 Solution: https://github.com/robdjc/Algorithms/tree/master/CountingValleys
 
