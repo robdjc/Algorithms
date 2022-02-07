@@ -12,3 +12,4 @@ Data Structures and Algorithms test programs.
 | [sock-merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | https://github.com/robdjc/Algorithms/tree/master/SockMerchant
 | [two-strings](https://www.hackerrank.com/challenges/two-strings) | https://github.com/robdjc/Algorithms/tree/master/TwoStrings
 | [two-sum](https://leetcode.com/problems/two-sum) | https://github.com/robdjc/Algorithms/tree/master/TwoSum
+| [two-sum](https://www.hackerrank.com/challenges/ctci-making-anagrams) | https://github.com/robdjc/Algorithms/tree/master/TwoSum
